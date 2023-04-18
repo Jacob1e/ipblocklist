@@ -8,7 +8,7 @@ This Python script automates the process of generating Check Point Firewall host
 - Generate formatted "add host" commands for Check Point Firewall
 - Replace tabs with spaces in the final output
 
-## 📋 Prerequisites
+## 📋 Prerequisites 
 
 - Python 3.x
 
