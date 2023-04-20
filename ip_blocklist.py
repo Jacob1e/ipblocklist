@@ -1,4 +1,4 @@
-incident_number = input("Enter the incident number: ")
+incident_number = input("Enter the incident number (e.g., INC7398016): ") 
 incident_date = input("Enter the date (e.g., 12/25/2023): ")
 user_pic = input("Enter your PIC: ")
 
